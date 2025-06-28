@@ -160,31 +160,31 @@ export const mockAccounts: Account[] = [
     },
     transaction_history: [
        {
-        dateTime: 'June 27, 2025',
+        dateTime: 'May 27, 2025',
         description: 'Transfer from Tracy - XXXXXX3723',
         status: 'Success',
         amount_usd: 60000.0
       },
       {
-        dateTime: 'June 20, 2025',
+        dateTime: 'May 20, 2025',
         description: 'Transfer from Marcus Reed - XXXXXX8351',
         status: 'Success',
         amount_usd: 45000.0
       },
       {
-        dateTime: 'June 16, 2025',
+        dateTime: 'March 16, 2025',
         description: 'Transfer to Elena Fischer - XXXXXX2179',
         status: 'Success',
         amount_usd: -28000.0
       },
       {
-        dateTime: 'June 12, 2025',
+        dateTime: 'February 12, 2025',
         description: 'Transfer from Emily Watson - XXXXXX3402',
         status: 'Success',
         amount_usd: 31000.0
       },
       {
-        dateTime: 'June 2, 2025',
+        dateTime: 'February 2, 2025',
         description: 'Transfer from Liam O’Connor - XXXXXX4903',
         status: 'Success',
         amount_usd: 122000.0
